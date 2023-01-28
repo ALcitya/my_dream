@@ -1,0 +1,6 @@
+Rencana pembelajaran pemograman
+1. melihat roadmap dari php
+2. mempelajari yang terpenting dari php
+3. membuat projek dengan php
+4. mencoba php mysql
+5. mempelajari laravel
